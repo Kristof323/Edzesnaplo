@@ -1,0 +1,94 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Felsőtest erőnléti edzés",
+      "duration": 75,
+      "date": "2026-11-20",
+      "completed": true,
+      "category": "Erőnléti",
+      "calories": 520
+    },
+    {
+      "id": 2,
+      "name": "Futás a parkban",
+      "duration": 45,
+      "date": "2026-11-21",
+      "completed": true,
+      "category": "Kardió",
+      "calories": 430
+    },
+    {
+      "id": 3,
+      "name": "Lábnap",
+      "duration": 90,
+      "date": "2026-11-22",
+      "completed": false,
+      "category": "Erőnléti",
+      "calories": 680
+    },
+    {
+      "id": 4,
+      "name": "Stretching és mobilitás",
+      "duration": 30,
+      "date": "2026-11-22",
+      "completed": true,
+      "category": "Mobilizáció",
+      "calories": 120
+    },
+    {
+      "id": 5,
+      "name": "HIIT edzés",
+      "duration": 25,
+      "date": "2026-11-23",
+      "completed": false,
+      "category": "Kardió",
+      "calories": 350
+    },
+    {
+      "id": 6,
+      "name": "Hát és bicepsz",
+      "duration": 60,
+      "date": "2026-11-23",
+      "completed": true,
+      "category": "Erőnléti",
+      "calories": 410
+    },
+    {
+      "id": 7,
+      "name": "Úszás",
+      "duration": 50,
+      "date": "2026-11-24",
+      "completed": false,
+      "category": "Kardió",
+      "calories": 470
+    },
+    {
+      "id": 8,
+      "name": "Mell és tricepsz",
+      "duration": 70,
+      "date": "2026-11-24",
+      "completed": true,
+      "category": "Erőnléti",
+      "calories": 500
+    },
+    {
+      "id": 9,
+      "name": "Jóga",
+      "duration": 40,
+      "date": "2026-11-24",
+      "completed": false,
+      "category": "Mobilizáció",
+      "calories": 150
+    },
+    {
+      "id": 10,
+      "name": "Tempófutás",
+      "duration": 35,
+      "date": "2026-11-25",
+      "completed": false,
+      "category": "Kardió",
+      "calories": 380
+    }
+  ]
+}
